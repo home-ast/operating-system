@@ -112,5 +112,11 @@
     "defconfig": "tinker",
     "architecture": "arm",
     "label": "board/tinker"
+  },
+  {
+    "id": "orangepi-3b",
+    "defconfig": "orangepi-3b",
+    "architecture": "aarch64",
+    "label": "board/orangepi"
   }
 ]

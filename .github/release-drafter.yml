@@ -22,6 +22,8 @@ categories:
     label: 'board/khadas'
   - title: 'Generic aarch64'
     label: 'board/generic-aarch64'
+  - title: 'Orangepi 3B'
+    label: 'board/orangepi'
   - title: 'Documentation'
     label: 'documentation'
   - title: 'Build System'
