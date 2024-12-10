@@ -115,7 +115,7 @@
   },
   {
     "id": "orangepi-3b",
-    "defconfig": "orangepi-3b",
+    "defconfig": "orangepi_3b",
     "architecture": "aarch64",
     "label": "board/orangepi"
   }
